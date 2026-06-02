@@ -1,0 +1,13 @@
+{
+    "record_id": "20260602_222116",
+    "start_time": "2026-06-02 22:21:16",
+    "sample_rate": 16000,
+    "channels": 1,
+    "bit_depth": 16,
+    "mic": "INMP441",
+    "device": "ESP32",
+    "end_time": "2026-06-02 22:22:17",
+    "duration_hours": 0.02,
+    "file_size_mb": 1.84,
+    "packet_count": 1884
+}

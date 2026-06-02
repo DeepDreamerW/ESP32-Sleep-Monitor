@@ -6,14 +6,14 @@
 // WiFi
 // =====================================================
 
-const char* ssid = "your WiFi";
-const char* password = "WiFi password";
+const char* ssid = "CMCC-a3Us";
+const char* password = "FKH4Y74C";
 
 // =====================================================
 // PC IP
 // =====================================================
 
-const char* pc_ip = "192.168.1.100";   // your computer's IP
+const char* pc_ip = "192.168.1.7";   // your computer's IP
 
 const int pc_port = 5005;
 
